@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yalybean.github.io/yalybean.txt.gz
+Sitemap: https://yalybean.github.io/app/yalybean.txt.gz
+Sitemap: https://yalybean.github.io/assets/yalybean.txt.gz
+Sitemap: https://yalybean.github.io/css/yalybean.txt.gz
+Sitemap: https://yalybean.github.io/includes/yalybean.txt.gz
+Sitemap: https://yalybean.github.io/item/yalybean.txt.gz
+Sitemap: https://yalybean.github.io/src/yalybean.txt.gz
